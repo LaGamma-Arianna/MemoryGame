@@ -6,7 +6,7 @@ Submitted by: **Arianna LaGamma**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/aboard-checkered-scion
 
 ## Required Functionality
 
@@ -35,13 +35,13 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](7jnLlq0I4p.gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.w3schools.com/colors/colors_hsl.asp
-https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
+* https://www.w3schools.com/colors/colors_hsl.asp
+* https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
