@@ -61,7 +61,6 @@ Another idea I have was to improve the aesthetics of the game with images as wel
 I think the user interface is already quality, but it could definitely be improved upon as well. In terms of font size, the css styles sheet could be changed in the title and headers.
 
 
-
 ## License
 
     Copyright Arianna LaGamma
