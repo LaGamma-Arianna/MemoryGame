@@ -47,8 +47,8 @@ Here's a walkthrough of implemented user stories:
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 Overall, I did not find any major challenges I had to overcome.
-There were some strange syntax bugs. I overcame this challenge by looking over the code with a fine tooth comb, ensuring that the format and code was consistent throughout the entire process.
-Another tricky part was translating the game logic portion into hard code. I overcame this particular challenge by writing out pseudocode in comments first, tracing through the program very carefully. Also, drawing it out on a whiteboard was helpful in problem-solving this portion!
+There were some strange syntax bugs. I overcame this challenge by looking over the code with a fine tooth comb, and using console.log statements verifying the behavior was working as expeected. Moreover, I ensured that the format and code was consistent throughout the entire process.
+Another tricky part was translating the game logic portion into hard code. I overcame this particular challenge by writing out pseudocode in comments first, tracing through the program very carefully. Also, drawing it out on a whiteboard was helpful in problem-solving this portion! 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
